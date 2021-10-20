@@ -1,0 +1,26 @@
+#info{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: beige;
+    font-weight: bolder;
+}
+.bg-color{
+    background-color: rgba(9, 9, 10, 0.815);
+}
+.clock {
+    margin-top: 30px;
+    left: 50%;
+    transform: translate(-50%)translateY(-50%);
+    color: #ffffff;
+    font-size: 60px;
+    font-family: Orbitron;
+    letter-spacing: 7px;
+    position: absolute;
+}
+/* margin-top: 30px;
+position: absolute;
+left: 50%;
+transform: translateX(-50%) translateY(-50%);
+color: #ffffff;
+font-size: 60px;
+font-family: Orbitron;
+letter-spacing: 7px; */
